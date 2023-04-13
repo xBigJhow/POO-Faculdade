@@ -7,7 +7,7 @@ public class tarefa04ex05 {
     public static void main(String[] args) {
         
         Scanner scanner = new Scanner(System.in);
-        
+        //matriz 
         int[][] tabuada = new int[10][3];
         int valor = 0;
         System.out.print("Digite o valor desejado: ");
