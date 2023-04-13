@@ -1,3 +1,6 @@
+// 5.Crie um programa que peça um número e gere automaticamente a sua tabuada deve multiplicar do 1 ao 10 !  
+//A taboada deve ser guardada na Matriz: NUMERO DIGITADO, NUMERO BASE, RESULTADO.
+
 import java.util.Scanner;
 
 public class tarefa04ex05 {
